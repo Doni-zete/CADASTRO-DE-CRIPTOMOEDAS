@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Doni-zete/CADASTRO-DE-CRIPTOMOEDAS)
 ![GitHub top language](https://img.shields.io/github/languages/top/doni-zete/CADASTRO-DE-CRIPTOMOEDAS)
 
- # Linguagen VBA
+ # Linguagem VBA
 ## Cadastro simples para Criptomoedas em vba
 
 
